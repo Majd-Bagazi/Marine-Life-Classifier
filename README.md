@@ -19,7 +19,7 @@ Total classes: 3
 
 Samples per class: 5 images (manually uploaded)
 
-📂 Classes & Samples
+Classes & Samples
 Clss	Number of Samples	Example Images
 Ducks	5	
 Dolphins	5	
